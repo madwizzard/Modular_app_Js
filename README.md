@@ -1,6 +1,11 @@
 # Modular_app_Js
 My first mudular node js app that runs a comand line. the app should be able to produce shapes of different sizes according to what the user inputs.
 
+**Britz_Estiaan_578355**
+
+The Shapes.js file should be run using: 
+node Shapes.js
+
 The app displays a menu with 4 options that allow you to pick a shape or exit
 1. Triange
 2. Square
